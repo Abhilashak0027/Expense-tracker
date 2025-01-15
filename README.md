@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+# Expense Tracker
 
 This **Personal Expense Tracker** built using Python. It helps you keep track of your expenses by allowing you to add, view, update, and filter expenses. You can also set a budget for different categories and track the total expenses in your budget.
 
